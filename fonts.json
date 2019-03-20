@@ -1,0 +1,294 @@
+[
+  { 
+    fontFamily: "'Roboto', sans-serif", 
+    fontLabel: "Roboto"
+  },
+  { 
+    fontFamily: "'Zilla Slab Highlight', cursive", 
+    fontLabel: "Zilla Slab Highlight"
+  },
+  { 
+    fontFamily: "'Open Sans', sans-serif", 
+    fontLabel: "Open Sans"
+  },
+  { 
+    fontFamily: "'Spectral', serif", 
+    fontLabel: "Spectral"
+  },
+  { 
+    fontFamily: "'Slabo 27px', serif", 
+    fontLabel: "Slabo 27px"
+  },
+  { 
+    fontFamily: "'Lato', sans-serif", 
+    fontLabel: "Lato"
+  },
+  { 
+    fontFamily: "'Roboto Condensed', sans-serif", 
+    fontLabel: "Roboto Condensed"
+  },
+  { 
+    fontFamily: "'Oswald', sans-serif", 
+    fontLabel: "Oswald"
+  },
+  { 
+    fontFamily: "'Raleway', sans-serif", 
+    fontLabel: "Raleway"
+  },
+  { 
+    fontFamily: "'Zilla Slab', serif", 
+    fontLabel: "Zilla Slab"
+  },
+  { 
+    fontFamily: "'Montserrat', sans-serif", 
+    fontLabel: "Montserrat"
+  },
+  { 
+    fontFamily: "'PT Sans', sans-serif", 
+    fontLabel: "PT Sans"
+  },
+  { 
+    fontFamily: "'Roboto Slab', serif", 
+    fontLabel: "Roboto Slab"
+  },
+  { 
+    fontFamily: "'Merriweather', serif", 
+    fontLabel: "Merriweather"
+  },
+  { 
+    fontFamily: "'Saira Condensed', sans-serif", 
+    fontLabel: "Saira Condensed"
+  },
+  { 
+    fontFamily: "'Saira', sans-serif", 
+    fontLabel: "Saira"
+  },
+  { 
+    fontFamily: "'Open Sans Condensed', sans-serif", 
+    fontLabel: "Open Sans Condensed"
+  },
+  { 
+    fontFamily: "'Saira Semi Condensed', sans-serif", 
+    fontLabel: "Saira Semi Condensed"
+  },
+  { 
+    fontFamily: "'Saira Extra Condensed', sans-serif", 
+    fontLabel: "Saira Extra Condensed"
+  },
+  { 
+    fontFamily: "'Julee', cursive", 
+    fontLabel: "Julee"
+  },
+  { 
+    fontFamily: "'Archivo', sans-serif", 
+    fontLabel: "Archivo"
+  },
+  { 
+    fontFamily: "'Ubuntu', sans-serif", 
+    fontLabel: "Ubuntu"
+  },
+  { 
+    fontFamily: "'Lora', serif", 
+    fontLabel: "Lora"
+  },
+  { 
+    fontFamily: "'Manuale', serif", 
+    fontLabel: "Manuale"
+  },
+  { 
+    fontFamily: "'Asap Condensed', sans-serif", 
+    fontLabel: "Asap Condensed"
+  },
+  { 
+    fontFamily: "'Faustina', serif", 
+    fontLabel: "Faustina"
+  },
+  { 
+    fontFamily: "'Cairo', sans-serif", 
+    fontLabel: "Cairo"
+  },
+  { 
+    fontFamily: "'Playfair Display', serif", 
+    fontLabel: "Playfair Display"
+  },
+  { 
+    fontFamily: "'Droid Serif', serif", 
+    fontLabel: "Droid Serif"
+  },
+  { 
+    fontFamily: "'Noto Sans', sans-serif", 
+    fontLabel: "Noto Sans"
+  },
+  { 
+    fontFamily: "'PT Serif', serif", 
+    fontLabel: "PT Serif"
+  },
+  { 
+    fontFamily: "'Droid Sans', sans-serif", 
+    fontLabel: "Droid Sans"
+  },
+  { 
+    fontFamily: "'Poppins', sans-serif", 
+    fontLabel: "Poppins"
+  },
+  { 
+    fontFamily: "'Sedgwick Ave Display', cursive", 
+    fontLabel: "Sedgwick Ave Display"
+  },
+  { 
+    fontFamily: "'Sedgwick Ave', cursive", 
+    fontLabel: "Sedgwick Ave"
+  },
+  { 
+    fontFamily: "'Indie Flower', cursive", 
+    fontLabel: "Indie Flower"
+  },
+  { 
+    fontFamily: "'Mada', sans-serif", 
+    fontLabel: "Mada"
+  },
+  { 
+    fontFamily: "'PT Sans Narrow', sans-serif", 
+    fontLabel: "PT Sans Narrow"
+  },
+  { 
+    fontFamily: "'Noto Serif', serif", 
+    fontLabel: "Noto Serif"
+  },
+  { 
+    fontFamily: "'Bitter', serif", 
+    fontLabel: "Bitter"
+  },
+  { 
+    fontFamily: "'Dosis', sans-serif", 
+    fontLabel: "Dosis"
+  },
+  { 
+    fontFamily: "'Josefin Sans', sans-serif", 
+    fontLabel: "Josefin Sans"
+  },
+  { 
+    fontFamily: "'Inconsolata', monospace", 
+    fontLabel: "Inconsolata"
+  },
+  { 
+    fontFamily: "'Bowlby One SC', cursive", 
+    fontLabel: "Bowlby One SC"
+  },
+  { 
+    fontFamily: "'Oxygen', sans-serif", 
+    fontLabel: "Oxygen"
+  },
+  { 
+    fontFamily: "'Arvo', serif", 
+    fontLabel: "Arvo"
+  },
+  { 
+    fontFamily: "'Hind', sans-serif", 
+    fontLabel: "Hind"
+  },
+  { 
+    fontFamily: "'Cabin', sans-serif", 
+    fontLabel: "Cabin"
+  },
+  { 
+    fontFamily: "'Fjalla One', sans-serif", 
+    fontLabel: "Fjalla One"
+  },
+  { 
+    fontFamily: "'Anton', sans-serif", 
+    fontLabel: "Anton"
+  },
+  { 
+    fontFamily: "'Titillium Web', sans-serif", 
+    fontLabel: "Titillium Web"
+  },
+  { 
+    fontFamily: "'Muli', sans-serif", 
+    fontLabel: "Muli"
+  },
+  { 
+    fontFamily: "'Cabin', sans-serif", 
+    fontLabel: "Cabin"
+  },
+  { 
+    fontFamily: "'Acme', sans-serif", 
+    fontLabel: "Acme"
+  },
+  { 
+    fontFamily: "'Archivo Narrow', sans-serif", 
+    fontLabel: "Archivo Narrow"
+  },
+  { 
+    fontFamily: "'Mukta Vaani', sans-serif", 
+    fontLabel: "Mukta Vaani"
+  },
+  { 
+    fontFamily: "'Play', sans-serif", 
+    fontLabel: "Play"
+  },
+  { 
+    fontFamily: "'Cuprum', sans-serif", 
+    fontLabel: "Cuprum"
+  },
+  { 
+    fontFamily: "'Maven Pro', sans-serif", 
+    fontLabel: "Maven Pro"
+  },
+  { 
+    fontFamily: "'EB Garamond', serif", 
+    fontLabel: "EB Garamond"
+  },
+  { 
+    fontFamily: "'Passion One', cursive", 
+    fontLabel: "Passion One"
+  },
+  { 
+    fontFamily: "'Ropa Sans', sans-serif", 
+    fontLabel: "Ropa Sans"
+  },
+  { 
+    fontFamily: "'Francois One', sans-serif", 
+    fontLabel: "Francois One"
+  },
+  { 
+    fontFamily: "'Archivo Black', sans-serif", 
+    fontLabel: "Archivo Black"
+  },
+  { 
+    fontFamily: "'Pathway Gothic One', sans-serif", 
+    fontLabel: "Pathway Gothic One"
+  },
+  { 
+    fontFamily: "'Exo', sans-serif", 
+    fontLabel: "Exo"
+  },
+  { 
+    fontFamily: "'Vollkorn', serif", 
+    fontLabel: "Vollkorn"
+  },
+  { 
+    fontFamily: "'Libre Franklin', sans-serif", 
+    fontLabel: "Libre Franklin"
+  },
+  { 
+    fontFamily: "'Crete Round', serif", 
+    fontLabel: "Crete Round"
+  },
+  { 
+    fontFamily: "'Alegreya', serif", 
+    fontLabel: "Alegreya"
+  },
+  { 
+    fontFamily: "'PT Sans Caption', sans-serif", 
+    fontLabel: "PT Sans Caption"
+  },
+  { 
+    fontFamily: "'Alegreya Sans', sans-serif", 
+    fontLabel: "Alegreya Sans"
+  },
+  { 
+    fontFamily: "'Source Code Pro', monospace", 
+    fontLabel: "Source Code Pro"
+  }
+]
